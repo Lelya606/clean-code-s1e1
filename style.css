@@ -99,9 +99,9 @@ button {
 }
 
 /* New Task */
-.title_m-bottom {
+.title_margin {
   display: block;
-  margin: 0 0 20px;
+  margin: 12px 0 32px;
 }
 
 .input#new-task {
