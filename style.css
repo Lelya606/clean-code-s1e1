@@ -14,7 +14,8 @@ li {
   list-style: none;
 }
 
-input, button {
+input,
+button {
   outline: none;
 }
 
@@ -54,7 +55,8 @@ input, button {
   margin: 0 auto 0;
 }
 
-.input, .list-tasks__item-label {
+.input,
+.list-tasks__item-label {
   width: 56%;
   display: inline-block;
   flex-grow: 1;
@@ -136,7 +138,8 @@ input, button {
   width: 226px;
 }
 
-.button_edit, .button_add {
+.button_edit,
+.button_add {
   color: #888;
   font-size: 15px;
   width: 60px;
