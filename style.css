@@ -6,16 +6,16 @@ body {
 }
 
 ul {
-  margin:0;
+  margin: 0;
   padding: 0;
 }
 
 li {
-  list-style:none;
+  list-style: none;
 }
 
 input, button {
-  outline:none;
+  outline: none;
 }
 
 .button {
@@ -40,7 +40,7 @@ input, button {
   font-family: fantasy, cursive;
 }
 
-@media (max-width:768px) {
+@media (max-width: 768px) {
 
   .hero {
     text-align: center;
@@ -161,14 +161,14 @@ input, button {
 
 /* Edit Task */
 .list-tasks__item .input {
-  display:none
+  display: none
 }
 
 .js-edit .input {
-  display:inline-block;
-  width:224px
+  display: inline-block;
+  width: 224px
 }
 
 .js-edit .list-tasks__item-label {
-  display:none;
+  display: none;
 }
