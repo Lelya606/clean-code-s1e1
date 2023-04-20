@@ -57,7 +57,7 @@ input, button {
 .input, .list-tasks__item-label {
   width: 56%;
   display: inline-block;
-  flex-grow: 1
+  flex-grow: 1;
 }
 
 .input-block {
@@ -133,7 +133,7 @@ input, button {
 }
 
 .list-tasks__item > .input {
-  width: 226px
+  width: 226px;
 }
 
 .button_edit, .button_add {
@@ -161,12 +161,12 @@ input, button {
 
 /* Edit Task */
 .list-tasks__item .input {
-  display: none
+  display: none;
 }
 
 .js-edit .input {
   display: inline-block;
-  width: 224px
+  width: 224px;
 }
 
 .js-edit .list-tasks__item-label {
